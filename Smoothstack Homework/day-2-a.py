@@ -9,8 +9,6 @@ print("thinker"[2:5])
 
 # S=’hello’,what is the output of h[1]
 
-# Should this say "h = 'hello'"? - COME BACK TO
-
 # S=’Sammy’ what is the output of s[2:]”
 
 # Answer: The output would be mmy
