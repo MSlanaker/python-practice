@@ -6,7 +6,7 @@ print(my_list)
 # I have a nested list [1,1[1,2]], how to grab the value of 2 from the list.
 
 # nest_list = [1, 1, [1, 2]]
-# print(str(nest_list[1][1])) - COME BACK TO
+# nest_list[1][1]
 
 # lst=['a','b','c'] What is the result of lst[1:]?
 

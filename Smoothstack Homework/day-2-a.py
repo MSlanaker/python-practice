@@ -20,11 +20,10 @@ print(s[2:])
 
 # With a single set function can you turn the word ‘Mississippi’ to distinct character word.
 
-# Slightly confused by this question - COME BACK TO
+print(set("Mississippi"))
 
 # Determine whether a phrase represents a palindrome or not.
 
-# COME BACK TO
 
 print("Hello world"[::-1])
 
