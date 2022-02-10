@@ -62,6 +62,14 @@ for i in range(n, 0, -1):
         print('* ', end="")
     print('')
 
+# Write a Python program that accepts a word from the user and reverse it
+
+word = "Whatever"
+
+for char in range(len(word) - 1, -1, -1):
+    print(word[char], end="")
+print("\n")
+
 # Write a Python program to count the number of even and odd numbers from a series of numbers. Go to the editor
 # Sample numbers : numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9) 
 # Expected Output : 
