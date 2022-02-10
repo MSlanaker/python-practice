@@ -44,4 +44,4 @@ print(simple_tuple)
 
 # With a single set function can you turn the word ‘Mississippi’ to distinct character word.
 
-# COME BACK TO
+print(set("Mississippi"))
